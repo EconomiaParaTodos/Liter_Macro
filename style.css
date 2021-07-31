@@ -248,6 +248,11 @@ ul, ol {
     object-position: top;
 }
 
+/* pdf */
+iframe{
+    width: 80%;
+    height: 150vh;
+}
 
 /* Footer */
 
